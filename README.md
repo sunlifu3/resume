@@ -67,6 +67,24 @@ Industry veteran with over **20 years** of experience in software engineering an
       </ul>
     </td>
   </tr>
+
+<tr>
+<td colspan="2" style="background-color: #f9f9f9; padding: 10px;">
+<h3>📂 Featured Projects</h3>
+<p>Detailed technical documentations and implementation guides:</p>
+<ul>
+<li>
+<strong><a href="assets/docs/project_1.pdf">Project 1: Technical Overview</a></strong> —
+Exploration of project 1 methodologies and results.
+</li>
+<li>
+<strong><a href="assets/docs/project_2.pdf">Project 2: Implementation Guide</a></strong> —
+In-depth look at project 2 architecture and data handling.
+</li>
+</ul>
+</td>
+</tr>
+  
 </table>
 <p align="center">
 <img src="assets/images/lotus.png" width="200" alt="Lotus Illustration" />
